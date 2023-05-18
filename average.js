@@ -1,5 +1,5 @@
 export default function calcAverage(arr) {
-    let sum
+    let sum = 0
     arr.forEach((item) => {
         sum += item
     })
